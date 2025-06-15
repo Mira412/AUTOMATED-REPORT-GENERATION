@@ -55,7 +55,8 @@ dataset.csv – Dataset used for visualization
 This task deepened my understanding of how Python can be used in real-world automation such as creating formatted reports. I learned how to collect user input, generate structured output, format that output clearly, and save it as a file. It introduced basic file I/O operations, use of timestamps, and formatting techniques to generate professional-looking summaries.
 The project is highly relevant to real-world industries where automated documentation and reporting are essential. From invoice systems to customer reports, the same logic can be scaled and extended. Completing this task also built my confidence in using Python for small-scale automation tasks.
 
-
+#OUTPUT
+[report_20250529-005921.pdf](https://github.com/user-attachments/files/20746840/report_20250529-005921.pdf)
 
 
 
