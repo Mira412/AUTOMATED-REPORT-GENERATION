@@ -24,7 +24,7 @@ This task introduces the basics of working with file I/O in Python, string forma
 
 In this particular project, the generated report includes user-defined inputs, current date and time, and other formatted information saved in a `.txt` file. Error handling and validation are also considered to make the report generation smoother and reliable.
 
-## 🛠 TOOLS & TECHNOLOGIES USED
+## TOOLS & TECHNOLOGIES USED
 
  **Python** – Core programming and logic development  
 - **Datetime Module** – To timestamp the report generation  
